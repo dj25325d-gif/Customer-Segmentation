@@ -309,15 +309,7 @@ jupyter notebook
 
 Open the notebook and run all cells from top to bottom. The notebook creates the cleaned customer RFM data, compares clustering algorithms, generates profiles, and saves the model/scaler and result tables.
 
-## 🔮 Next Steps
 
-- [ ] Add the raw dataset or a clear download/setup instruction.
-- [ ] Re-run the notebook from a clean environment and commit the fresh execution output.
-- [ ] Validate segment definitions with marketing stakeholders.
-- [ ] Test targeted campaigns with an A/B experiment.
-- [ ] Add campaign outcome data to measure lift and ROI.
-- [ ] Explore additional features such as product category preferences, average basket size, and customer tenure.
-- [ ] Consider a dashboard for ongoing segment monitoring.
 
 ## 🎓 What I Learned
 
@@ -327,7 +319,7 @@ Most importantly, I learned that **a cluster is only useful when I can explain w
 
 ## 📬 Project Presentation
 
-🎥 **Project walkthrough:** _Add your video link here before sharing the repository with recruiters._
+
 
 ---
 
